@@ -14,6 +14,28 @@ I’m a Machine Learning Engineer with strong hands-on experience in computer vi
 `Python` `TensorFlow` `OpenCV` `C++` `Docker` `Linux` `Jetson Nano` `RTSP Streaming` `ONNX`
 
 ### 🚧 Projects
+## 🚀 Highlighted Projects
+
+### 🔊 Urban Sound Classification
+Built a deep learning pipeline for classifying urban sounds using the UrbanSound8K dataset.  
+- 📘 Published in: [Neural Computing and Applications (Springer, 2021)](https://link.springer.com/article/10.1007/s00521-021-06091-7)
+- 🛠️ Tech: Python, TensorFlow, Keras, Librosa, Spectrograms
+- 🎯 Outcome: CNN-based audio classifier with real-time evaluation
+🔗 [View Code on GitHub](https://github.com/YousefABD92/Urban-Sound-Classification)
+
+---
+
+### 🚤 Suraya USV – Autonomous Surface Vehicle Navigation
+Developed an AI-powered navigation and perception framework for autonomous surface vehicles (USVs).  
+- 📘 Published in:
+  - [IEEE ICIT 2024 – Autonomous Navigation Using ESA](https://ieeexplore.ieee.org/document/10969632)
+  - [IEEE SysCon 2023 – Multi-Sensor Collision Avoidance](https://ieeexplore.ieee.org/document/10314528)
+- ⚙️ Features: Stereo vision, LiDAR, GPS/IMU integration, MOOS-IvP
+- 💡 Focus: Real-time ESA system design, decision making, and sensor fusion
+🔗 *(Link to GitHub repo or demo if available)*
+
+
+
 - 📸 **VACV Module**: Camera stream validation and calibration tools for smart road systems.
 - 🚗 **MLFF Tolling System**: Real-time vehicle tracking and ANPR.
 - 📍 **Edge Deployment**: Real-time image classification on Jetson and OpenVINO.
