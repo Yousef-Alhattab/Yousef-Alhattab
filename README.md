@@ -12,7 +12,7 @@ I am a Machine Learning Engineer with hands-on experience in computer vision, sm
 
 ## Technical Skills
 Python · TensorFlow · OpenCV · PyTorch · C++  
-Docker · Linux · ROS · ONNX · RTSP Streaming · Jetson Nano
+Docker · Linux · ROS · ONNX · RTSP Streaming · Jetson computers
 
 ## Selected Projects
 
