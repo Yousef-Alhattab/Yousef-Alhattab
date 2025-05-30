@@ -6,9 +6,10 @@ I am a Machine Learning Engineer with hands-on experience in computer vision, sm
 
 ## Areas of Expertise
 - Computer Vision and Deep Learning
+- Unmanned Surface Vehicles (USVs)
 - Intelligent Transportation Systems (MLFF, ANPR, VACV)
 - Embedded AI and Real-time Inference on Edge Devices
-- Cloud Integration and Deployment (AWS, Docker, Jetson)
+- Integration and Deployment (Docker, Jetson)
 
 ## Technical Skills
 Python · TensorFlow · OpenCV · PyTorch · C++  
